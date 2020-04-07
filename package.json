@@ -1,0 +1,22 @@
+{
+  "name": "200407-node-express-lecture-maryhooker",
+  "version": "1.0.0",
+  "description": "[Reference](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#Testing_your_Nodejs_and_NPM_installation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/200407-node-express-lecture-MaryHooker.git"
+  },
+  "author": "M.Hooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/200407-node-express-lecture-MaryHooker/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/200407-node-express-lecture-MaryHooker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
